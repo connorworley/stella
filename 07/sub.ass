@@ -16,9 +16,9 @@ Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 118
-Active Line: 135
-Video Position: 12660
+Scroll Position: 65
+Active Line: 82
+Video Position: 9300
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,93 +27,87 @@ Style: Default,Open Sans,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:02.18,0:00:07.70,Default,,0,0,0,,[CLUB NAME]
-Dialogue: 0,0:00:07.70,0:00:10.28,Default,,0,0,0,,I've finally found it,
+Dialogue: 0,0:00:08.74,0:00:10.28,Default,,0,0,0,,I've finally found it,
 Dialogue: 0,0:00:10.28,0:00:13.22,Default,,0,0,0,,the homepage of that girl's circle!
-Dialogue: 0,0:00:13.22,0:00:16.04,Default,,0,0,0,,Eh? There's no page of their works!
-Dialogue: 0,0:00:16.04,0:00:18.86,Default,,0,0,0,,This site is useless ???
+Dialogue: 0,0:00:13.58,0:00:16.04,Default,,0,0,0,,Eh? There's no page of their works!
+Dialogue: 0,0:00:16.66,0:00:18.86,Default,,0,0,0,,This site is useless ???
 Dialogue: 0,0:00:18.86,0:00:20.70,Default,,0,0,0,,???
-Dialogue: 0,0:00:20.70,0:00:24.44,Default,,0,0,0,,??? (ano kata no toutou sato? subaraisa wo nani mo wakettenai)
+Dialogue: 0,0:00:20.90,0:00:24.44,Default,,0,0,0,,??? (ano kata no toutou sato? subaraisa wo nani mo wakettenai)
 Dialogue: 0,0:00:24.44,0:00:28.78,Default,,0,0,0,,I'll show each of you my ???
-Dialogue: 0,0:00:28.78,0:02:16.28,Default,,0,0,0,,
-Dialogue: 0,0:02:16.28,0:02:20.04,Default,,0,0,0,,Hanging out with you today was really fun
-Dialogue: 0,0:02:20.04,0:02:22.04,Default,,0,0,0,,Really? That's good
-Dialogue: 0,0:02:22.04,0:02:24.88,Default,,0,0,0,,Tama-chan, you joined a good club
-Dialogue: 0,0:02:24.88,0:02:27.14,Default,,0,0,0,,the senior members are nice
+Dialogue: 0,0:02:16.62,0:02:19.98,Default,,0,0,0,,Hanging out with you today was really fun
+Dialogue: 0,0:02:20.28,0:02:22.20,Default,,0,0,0,,Really? That's good
+Dialogue: 0,0:02:22.38,0:02:24.76,Default,,0,0,0,,Tama-chan, you joined a good club
+Dialogue: 0,0:02:25.36,0:02:27.14,Default,,0,0,0,,the senior members are nice
 Dialogue: 0,0:02:27.14,0:02:30.40,Default,,0,0,0,,To be honest, I was worried at fist
-Dialogue: 0,0:02:30.40,0:02:33.90,Default,,0,0,0,,You're like my papa, Yumine
-Dialogue: 0,0:02:33.90,0:02:37.08,Default,,0,0,0,,I feel praised
-Dialogue: 0,0:02:37.08,0:02:42.94,Default,,0,0,0,,
-Dialogue: 0,0:02:42.94,0:02:48.10,Default,,0,0,0,,Ah! Here's the manga you lended me.  It was really interesting
-Dialogue: 0,0:02:48.10,0:02:51.36,Default,,0,0,0,,Really? Tell me what you thought of it later
-Dialogue: 0,0:02:51.36,0:02:54.60,Default,,0,0,0,,I'm going to visit my club before class
-Dialogue: 0,0:02:54.60,0:02:57.78,Default,,0,0,0,,Got it.  Do your best
-Dialogue: 0,0:02:57.78,0:02:59.32,Default,,0,0,0,,
-Dialogue: 0,0:02:59.32,0:03:02.30,Default,,0,0,0,,Yumine has been my friend since elementary school
-Dialogue: 0,0:03:02.30,0:03:07.92,Default,,0,0,0,,We parted ways in middle school, but now we're reunited
-Dialogue: 0,0:03:07.92,0:03:11.80,Default,,0,0,0,, To me, she's a special friend
-Dialogue: 0,0:03:11.80,0:03:13.80,Default,,0,0,0,,Lyrics?
-Dialogue: 0,0:03:13.80,0:03:17.10,Default,,0,0,0,,Mm.  We've left the lyrics to others until now,
-Dialogue: 0,0:03:16.84,0:03:20.98,Default,,0,0,0,,???
-Dialogue: 0,0:03:20.98,0:03:24.08,Default,,0,0,0,, Knowing you, it's ??? (yapa fujikawa-san nara ??? tsukurichau no ka)
-Dialogue: 0,0:03:24.08,0:03:28.62,Default,,0,0,0,,ahhh, konkai mada ii denpa orite kite nai na
+Dialogue: 0,0:02:31.76,0:02:33.90,Default,,0,0,0,,You're like my papa, Yumine
+Dialogue: 0,0:02:34.48,0:02:36.66,Default,,0,0,0,,I feel praised
+Dialogue: 0,0:02:43.14,0:02:43.68,Default,,0,0,0,,Oh, right!
+Dialogue: 0,0:02:44.40,0:02:48.10,Default,,0,0,0,,Here's the manga you lended me.  It was really interesting
+Dialogue: 0,0:02:48.10,0:02:50.90,Default,,0,0,0,,Really? Tell me what you thought of it later
+Dialogue: 0,0:02:51.62,0:02:54.72,Default,,0,0,0,,I'm going to visit my club before class
+Dialogue: 0,0:02:55.00,0:02:57.78,Default,,0,0,0,,Mm, got it.  Do your best
+Dialogue: 0,0:02:59.32,0:03:02.48,Default,,0,0,0,,Yumine has been my friend since elementary school
+Dialogue: 0,0:03:03.82,0:03:08.14,Default,,0,0,0,,We parted ways in middle school, but now we're reunited
+Dialogue: 0,0:03:08.66,0:03:11.50,Default,,0,0,0,, To me, she's a special friend
+Dialogue: 0,0:03:12.80,0:03:13.54,Default,,0,0,0,,Lyrics?
+Dialogue: 0,0:03:13.80,0:03:17.14,Default,,0,0,0,,Mm.  We've left the lyrics to others until now,
+Dialogue: 0,0:03:17.36,0:03:20.98,Default,,0,0,0,,???
+Dialogue: 0,0:03:21.32,0:03:24.08,Default,,0,0,0,, Knowing you, it's ??? (yapa fujikawa-san nara ??? tsukurichau no ka)
+Dialogue: 0,0:03:24.44,0:03:28.62,Default,,0,0,0,,ahhh, konkai mada ii denpa orite kite nai na
 Dialogue: 0,0:03:28.62,0:03:30.62,Default,,0,0,0,,jikai saku mo tanomu yo
-Dialogue: 0,0:03:30.62,0:03:33.32,Default,,0,0,0,,ima iroiro neteru kouso tokoro dakara
-Dialogue: 0,0:03:33.32,0:03:35.32,Default,,0,0,0,,
-Dialogue: 0,0:03:35.32,0:03:38.16,Default,,0,0,0,,/kagiri aru, jikan no naka de/
-Dialogue: 0,0:03:38.16,0:03:40.16,Default,,0,0,0,,/anata no koto omou/
-Dialogue: 0,0:03:40.16,0:03:43.02,Default,,0,0,0,,/anata no kokoro ??? chikara wo watashi ni/
-Dialogue: 0,0:03:43.02,0:03:45.02,Default,,0,0,0,,oh? denpa kita ka?
-Dialogue: 0,0:03:45.02,0:03:48.48,Default,,0,0,0,,I spent a lot of time reading manga yesterday
-Dialogue: 0,0:03:48.48,0:03:53.20,Default,,0,0,0,, himeteru setsunai koigokoru komayaka ni egaita gensaku to iu ka
-Dialogue: 0,0:03:53.20,0:03:55.20,Default,,0,0,0,,Hm?
-Dialogue: 0,0:03:55.20,0:03:58.10,Default,,0,0,0,, Huh? Fujikawa-senpai?
-Dialogue: 0,0:03:58.10,0:04:01.20,Default,,0,0,0,,{\i1}You were everything to me
-Dialogue: 0,0:04:01.20,0:04:05.22,Default,,0,0,0,,{\i1}If it's my fate to disappear
-Dialogue: 0,0:04:05.22,0:04:08.92,Default,,0,0,0,,{\i1}I loved you forever
-Dialogue: 0,0:04:08.92,0:04:10.92,Default,,0,0,0,,
+Dialogue: 0,0:03:30.98,0:03:33.32,Default,,0,0,0,,ima iroiro neteru kouso tokoro dakara
+Dialogue: 0,0:03:35.80,0:03:38.22,Default,,0,0,0,,/kagiri aru, jikan no naka de/
+Dialogue: 0,0:03:38.26,0:03:39.98,Default,,0,0,0,,/anata no koto omou/
+Dialogue: 0,0:03:40.16,0:03:43.12,Default,,0,0,0,,/anata no kokoro ??? chikara wo watashi ni/
+Dialogue: 0,0:03:43.16,0:03:45.02,Default,,0,0,0,,oh? denpa kita ka?
+Dialogue: 0,0:03:45.40,0:03:48.48,Default,,0,0,0,,I spent a lot of time reading manga yesterday
+Dialogue: 0,0:03:49.16,0:03:53.20,Default,,0,0,0,, himeteru setsunai koigokoru komayaka ni egaita gensaku to iu ka
+Dialogue: 0,0:03:54.86,0:03:55.14,Default,,0,0,0,,Hm?
+Dialogue: 0,0:03:56.12,0:03:58.10,Default,,0,0,0,, Huh? Fujikawa-senpai?
+Dialogue: 0,0:03:59.36,0:04:01.38,Default,,0,0,0,,{\i1}You were everything to me
+Dialogue: 0,0:04:02.44,0:04:05.28,Default,,0,0,0,,{\i1}If it's my fate to disappear
+Dialogue: 0,0:04:05.62,0:04:08.92,Default,,0,0,0,,{\i1}I loved you forever
 Dialogue: 0,0:04:10.92,0:04:13.62,Default,,0,0,0,,Oh? Yahoo, Honda-chan
-Dialogue: 0,0:04:13.62,0:04:15.62,Default,,0,0,0,,Um, just now was...?
-Dialogue: 0,0:04:15.62,0:04:18.94,Default,,0,0,0,,I wrote a poem to my senior
-Dialogue: 0,0:04:18.94,0:04:19.94,Default,,0,0,0,, To your senior?
-Dialogue: 0,0:04:19.94,0:04:22.64,Default,,0,0,0,,They're someone special to me,
-Dialogue: 0,0:04:22.64,0:04:26.60,Default,,0,0,0,,shitanakute mo, seiippai mono wo tsukuritai natte
-Dialogue: 0,0:04:26.60,0:04:30.88,Default,,0,0,0,,
-Dialogue: 0,0:04:30.88,0:04:32.88,Default,,0,0,0,,Senpai... I love you!
-Dialogue: 0,0:04:32.88,0:04:36.32,Default,,0,0,0,,Those feelings will surely reach them!
+Dialogue: 0,0:04:13.88,0:04:15.62,Default,,0,0,0,,Um, just now was...?
+Dialogue: 0,0:04:15.84,0:04:18.62,Default,,0,0,0,,I wrote a poem to my senior
+Dialogue: 0,0:04:18.78,0:04:20.02,Default,,0,0,0,, To your senior?
+Dialogue: 0,0:04:20.36,0:04:22.64,Default,,0,0,0,,They're someone special to me,
+Dialogue: 0,0:04:23.44,0:04:26.60,Default,,0,0,0,,shitanakute mo, seiippai mono wo tsukuritai natte
+Dialogue: 0,0:04:30.88,0:04:31.86,Default,,0,0,0,,Senpai...
+Dialogue: 0,0:04:32.26,0:04:33.02,Default,,0,0,0,,I love you!
+Dialogue: 0,0:04:33.60,0:04:36.32,Default,,0,0,0,,Those feelings will surely reach them!
 Dialogue: 0,0:04:36.32,0:04:40.70,Default,,0,0,0,,Hm? Oh, why don't you help me?
 Dialogue: 0,0:04:40.70,0:04:43.74,Default,,0,0,0,,Eh? Help you? Is that okay?
-Dialogue: 0,0:04:43.74,0:04:48.44,Default,,0,0,0,,Of course!  ???
-Dialogue: 0,0:04:48.44,0:04:51.46,Default,,0,0,0,,I don't understand!  Who do you mean by next?
-Dialogue: 0,0:04:51.46,0:04:54.24,Default,,0,0,0,,Who?  Um....
-Dialogue: 0,0:04:54.24,0:04:56.24,Default,,0,0,0,,Seki-san?
-Dialogue: 0,0:04:56.24,0:04:58.24,Default,,0,0,0,,Forbidden love?!
+Dialogue: 0,0:04:43.74,0:04:48.10,Default,,0,0,0,,Of course!  ???
+Dialogue: 0,0:04:48.10,0:04:51.28,Default,,0,0,0,,I don't understand!  Who do you mean by next?
+Dialogue: 0,0:04:51.38,0:04:54.24,Default,,0,0,0,,Who?  Um....
+Dialogue: 0,0:04:55.44,0:04:56.30,Default,,0,0,0,,Seki-san?
+Dialogue: 0,0:04:56.46,0:04:57.96,Default,,0,0,0,,Forbidden love?!
 Dialogue: 0,0:04:58.24,0:04:59.32,Default,,0,0,0,,I love you
 Dialogue: 0,0:04:59.32,0:05:02.16,Default,,0,0,0,,If you do that your partner's a girl, ???
 Dialogue: 0,0:05:02.16,0:05:04.78,Default,,0,0,0,,there will be rumors ???
 Dialogue: 0,0:05:04.78,0:05:09.36,Default,,0,0,0,,Eh?  Anyways, can you visit from noon until homeroom? ???
-Dialogue: 0,0:05:09.36,0:05:12.82,Default,,0,0,0,,Fujikawa-senpai's love-poem ???
-Dialogue: 0,0:05:12.82,0:05:16.44,Default,,0,0,0,,I don't have any experience, but I'll do my best
-Dialogue: 0,0:05:16.44,0:05:20.72,Default,,0,0,0,,honda-chan no fudan no koigokoro to ka banban oshiete hoshii na
-Dialogue: 0,0:05:20.72,0:05:23.04,Default,,0,0,0,,otousama teki na
-Dialogue: 0,0:05:23.04,0:05:24.56,Default,,0,0,0,,I love you
-Dialogue: 0,0:05:24.56,0:05:26.56,Default,,0,0,0,,I love my papa!
-Dialogue: 0,0:05:26.56,0:05:30.64,Default,,0,0,0,,That would turn out absurd! It would turn out complicated!
-Dialogue: 0,0:05:30.64,0:05:37.18,Default,,0,0,0,,???
-Dialogue: 0,0:05:37.18,0:05:39.46,Default,,0,0,0,,???
-Dialogue: 0,0:05:39.46,0:05:41.46,Default,,0,0,0,,You think that's okay?
-Dialogue: 0,0:05:41.46,0:05:45.80,Default,,0,0,0,,
+Dialogue: 0,0:05:09.58,0:05:13.10,Default,,0,0,0,,Fujikawa-senpai's love-poem ???
+Dialogue: 0,0:05:13.44,0:05:16.44,Default,,0,0,0,,I-I don't have any experience, but I'll do my best
+Dialogue: 0,0:05:16.90,0:05:20.84,Default,,0,0,0,,honda-chan no fudan no koigokoro to ka banban oshiete hoshii na
+Dialogue: 0,0:05:21.00,0:05:22.36,Default,,0,0,0,,otousama teki na
+Dialogue: 0,0:05:23.74,0:05:24.56,Default,,0,0,0,,I love you
+Dialogue: 0,0:05:24.84,0:05:26.56,Default,,0,0,0,,I love my papa!
+Dialogue: 0,0:05:26.90,0:05:30.64,Default,,0,0,0,,That would turn out absurd! It would turn out complicated!
+Dialogue: 0,0:05:30.76,0:05:37.18,Default,,0,0,0,,???
+Dialogue: 0,0:05:37.66,0:05:39.46,Default,,0,0,0,,???
+Dialogue: 0,0:05:39.58,0:05:41.46,Default,,0,0,0,,You think that's okay?
 Dialogue: 0,0:05:45.80,0:05:47.58,Default,,0,0,0,,Is this really okay?
-Dialogue: 0,0:05:47.58,0:05:51.98,Default,,0,0,0,,What could Tama-chan have been doing earlier?
-Dialogue: 0,0:05:51.98,0:05:55.64,Default,,0,0,0,,It's a letter
-Dialogue: 0,0:05:55.64,0:05:59.64,Default,,0,0,0,,
-Dialogue: 0,0:05:59.64,0:06:01.64,Default,,0,0,0,,zurudoi (need to figure out specific meaning)
-Dialogue: 0,0:06:01.64,0:06:09.78,Default,,0,0,0,,???
-Dialogue: 0,0:06:09.78,0:06:10.94,Default,,0,0,0,,Eh?
-Dialogue: 0,0:06:10.94,0:06:12.94,Default,,0,0,0,,You can't do this!
-Dialogue: 0,0:06:12.94,0:06:16.12,Default,,0,0,0,,???
-Dialogue: 0,0:06:16.12,0:06:19.62,Default,,0,0,0,,You've really helped me Honda-chan! Now then...
-Dialogue: 0,0:06:19.62,0:06:24.36,Default,,0,0,0,,That blonde!
-Dialogue: 0,0:06:24.36,0:06:27.98,Default,,0,0,0,,
+Dialogue: 0,0:05:48.78,0:05:51.98,Default,,0,0,0,,What could Tama-chan have been doing earlier?
+Dialogue: 0,0:05:54.88,0:05:55.64,Default,,0,0,0,,It's a letter
+Dialogue: 0,0:05:56.54,0:05:59.64,Default,,0,0,0,,???
+Dialogue: 0,0:05:59.76,0:06:00.60,Default,,0,0,0,,zurudoi (need to figure out specific meaning)
+Dialogue: 0,0:06:04.76,0:06:10.04,Default,,0,0,0,,???
+Dialogue: 0,0:06:10.08,0:06:10.74,Default,,0,0,0,,Eh?
+Dialogue: 0,0:06:11.58,0:06:13.28,Default,,0,0,0,,You can't do this!
+Dialogue: 0,0:06:13.30,0:06:16.30,Default,,0,0,0,,???
+Dialogue: 0,0:06:16.40,0:06:19.62,Default,,0,0,0,,You've really helped me Honda-chan! Now then...
+Dialogue: 0,0:06:21.32,0:06:24.54,Default,,0,0,0,,That blonde!
 Dialogue: 0,0:06:27.86,0:06:32.12,Default,,0,0,0,,Fujikawa-san, you attitude towards making songs is so serious, I'm jealous
 Dialogue: 0,0:06:32.12,0:06:36.74,Default,,0,0,0,,Really? My music seems like child's play to me
 Dialogue: 0,0:06:36.74,0:06:42.16,Default,,0,0,0,,I'm not as prepared as you, Fujikawa-san
@@ -161,4 +155,4 @@ Dialogue: 0,0:08:38.64,0:08:41.12,Default,,0,0,0,,???
 Dialogue: 0,0:08:41.12,0:08:41.52,Default,,0,0,0,,Eh!
 Dialogue: 0,0:08:41.52,0:08:44.76,Default,,0,0,0,,???
 Dialogue: 0,0:08:44.76,0:08:48.00,Default,,0,0,0,,???
-Dialogue: 0,0:08:48.00,0:08:50.00,Default,,0,0,0,,???
+Dialogue: 0,0:08:48.00,0:08:50.00,Default,,0,0,0,,
