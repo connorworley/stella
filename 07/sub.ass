@@ -16,12 +16,13 @@ Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Active Line: 40
-Video Position: 8415
+Scroll Position: 71
+Active Line: 87
+Video Position: 9216
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Open Sans,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Open Sans,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -98,5 +99,18 @@ Dialogue: 0,0:05:23.04,0:05:24.56,Default,,0,0,0,,I love you
 Dialogue: 0,0:05:24.56,0:05:26.56,Default,,0,0,0,,I love my papa!
 Dialogue: 0,0:05:26.56,0:05:30.64,Default,,0,0,0,,That would turn out absurd! It would turn out complicated!
 Dialogue: 0,0:05:30.64,0:05:37.18,Default,,0,0,0,,???
-Dialogue: 0,0:05:37.18,0:05:39.46,Default,,0,0,0,,
+Dialogue: 0,0:05:37.18,0:05:39.46,Default,,0,0,0,,???
 Dialogue: 0,0:05:39.46,0:05:41.46,Default,,0,0,0,,You think that's okay?
+Dialogue: 0,0:05:41.46,0:05:45.80,Default,,0,0,0,,
+Dialogue: 0,0:05:45.80,0:05:47.58,Default,,0,0,0,,Is this really okay?
+Dialogue: 0,0:05:47.58,0:05:51.98,Default,,0,0,0,,What could Tama-chan have been doing earlier?
+Dialogue: 0,0:05:51.98,0:05:55.64,Default,,0,0,0,,It's a letter
+Dialogue: 0,0:05:55.64,0:05:59.64,Default,,0,0,0,,
+Dialogue: 0,0:05:59.64,0:06:01.64,Default,,0,0,0,,zurudoi (need to figure out specific meaning)
+Dialogue: 0,0:06:01.64,0:06:09.78,Default,,0,0,0,,???
+Dialogue: 0,0:06:09.78,0:06:10.94,Default,,0,0,0,,Eh?
+Dialogue: 0,0:06:10.94,0:06:12.94,Default,,0,0,0,,You can't do this!
+Dialogue: 0,0:06:12.94,0:06:16.12,Default,,0,0,0,,???
+Dialogue: 0,0:06:16.12,0:06:19.62,Default,,0,0,0,,You've really helped me Honda-chan! Now then...
+Dialogue: 0,0:06:19.62,0:06:24.36,Default,,0,0,0,,That blonde!
+Dialogue: 0,0:06:24.36,0:06:26.36,Default,,0,0,0,,
