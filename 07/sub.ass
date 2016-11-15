@@ -14,7 +14,10 @@ Audio File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
+Video Zoom Percent: 1.125000
+Scroll Position: 20
+Active Line: 37
+Video Position: 5396
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,4 +25,41 @@ Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
+Dialogue: 0,0:00:02.18,0:00:07.70,Default,,0,0,0,,[CLUB NAME]
+Dialogue: 0,0:00:07.70,0:00:10.28,Default,,0,0,0,,I've finally found it,
+Dialogue: 0,0:00:10.28,0:00:13.22,Default,,0,0,0,,the homepage of that girl's circle!
+Dialogue: 0,0:00:13.22,0:00:16.04,Default,,0,0,0,,Eh? There's no page of their works!
+Dialogue: 0,0:00:16.04,0:00:18.86,Default,,0,0,0,,This site is useless
+Dialogue: 0,0:00:18.86,0:00:20.70,Default,,0,0,0,,???
+Dialogue: 0,0:00:20.70,0:00:24.44,Default,,0,0,0,,??? (ano kata no toutou sato? subaraisa wo nani mo wakettenai)
+Dialogue: 0,0:00:24.44,0:00:28.78,Default,,0,0,0,,I'll show each of you my ???
+Dialogue: 0,0:00:28.78,0:02:16.28,Default,,0,0,0,,
+Dialogue: 0,0:02:16.28,0:02:20.04,Default,,0,0,0,,Hanging out with you today was really fun
+Dialogue: 0,0:02:20.04,0:02:22.04,Default,,0,0,0,,Really? That's good
+Dialogue: 0,0:02:22.04,0:02:24.88,Default,,0,0,0,,Tama-chan, you joined a good club
+Dialogue: 0,0:02:24.88,0:02:27.14,Default,,0,0,0,,the senior members are nice
+Dialogue: 0,0:02:27.14,0:02:30.40,Default,,0,0,0,,To be honest, I was worried at fist
+Dialogue: 0,0:02:30.40,0:02:33.90,Default,,0,0,0,,You're like my papa, Yumine
+Dialogue: 0,0:02:33.90,0:02:37.08,Default,,0,0,0,,I feel praised
+Dialogue: 0,0:02:37.08,0:02:42.94,Default,,0,0,0,,
+Dialogue: 0,0:02:42.94,0:02:48.10,Default,,0,0,0,,Ah! Here's the manga you lended me.  It was really interesting
+Dialogue: 0,0:02:48.10,0:02:51.36,Default,,0,0,0,,Really? Tell me what you thought of it later
+Dialogue: 0,0:02:51.36,0:02:54.60,Default,,0,0,0,,I'm going to visit my club before class
+Dialogue: 0,0:02:54.60,0:02:57.78,Default,,0,0,0,,Got it.  Do your best
+Dialogue: 0,0:02:57.78,0:02:59.32,Default,,0,0,0,,
+Dialogue: 0,0:02:59.32,0:03:02.30,Default,,0,0,0,,Yumine has been my friend since elementary school
+Dialogue: 0,0:03:02.30,0:03:07.92,Default,,0,0,0,,We parted ways in middle school, but now we're reunited
+Dialogue: 0,0:03:07.92,0:03:11.80,Default,,0,0,0,, To me, she's a special friend
+Dialogue: 0,0:03:11.80,0:03:13.80,Default,,0,0,0,,Lyrics?
+Dialogue: 0,0:03:13.80,0:03:17.10,Default,,0,0,0,,Mm.  We've left the lyrics to others until now,
+Dialogue: 0,0:03:16.84,0:03:20.98,Default,,0,0,0,,???
+Dialogue: 0,0:03:20.98,0:03:24.08,Default,,0,0,0,, Knowing you, it's ??? (yapa fujikawa-san nara ??? tsukurichau no ka)
+Dialogue: 0,0:03:24.08,0:03:28.62,Default,,0,0,0,,ahhh, konkai mada ii denpa orite kite nai na
+Dialogue: 0,0:03:28.62,0:03:30.62,Default,,0,0,0,,jikai saku mo tanomu yo
+Dialogue: 0,0:03:30.62,0:03:33.32,Default,,0,0,0,,ima iroiro neteru kouso tokoro dakara
+Dialogue: 0,0:03:33.32,0:03:35.32,Default,,0,0,0,,
+Dialogue: 0,0:03:35.32,0:03:38.16,Default,,0,0,0,, /kagiri aru, jikan no naka de/
+Dialogue: 0,0:03:38.16,0:03:40.16,Default,,0,0,0,,/anata no koto omou/
+Dialogue: 0,0:03:40.16,0:03:43.02,Default,,0,0,0,,/anata no kokoro ??? chikara wo watashi ni/
+Dialogue: 0,0:03:43.02,0:03:45.02,Default,,0,0,0,,oh? denpa kita ka?
+Dialogue: 0,0:03:45.02,0:03:47.02,Default,,0,0,0,,
