@@ -10,18 +10,18 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 57
-Active Line: 74
-Video Position: 8139
+Active Line: 40
+Video Position: 8415
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Open Sans,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -29,7 +29,7 @@ Dialogue: 0,0:00:02.18,0:00:07.70,Default,,0,0,0,,[CLUB NAME]
 Dialogue: 0,0:00:07.70,0:00:10.28,Default,,0,0,0,,I've finally found it,
 Dialogue: 0,0:00:10.28,0:00:13.22,Default,,0,0,0,,the homepage of that girl's circle!
 Dialogue: 0,0:00:13.22,0:00:16.04,Default,,0,0,0,,Eh? There's no page of their works!
-Dialogue: 0,0:00:16.04,0:00:18.86,Default,,0,0,0,,This site is useless
+Dialogue: 0,0:00:16.04,0:00:18.86,Default,,0,0,0,,This site is useless ???
 Dialogue: 0,0:00:18.86,0:00:20.70,Default,,0,0,0,,???
 Dialogue: 0,0:00:20.70,0:00:24.44,Default,,0,0,0,,??? (ano kata no toutou sato? subaraisa wo nani mo wakettenai)
 Dialogue: 0,0:00:24.44,0:00:28.78,Default,,0,0,0,,I'll show each of you my ???
@@ -58,7 +58,7 @@ Dialogue: 0,0:03:24.08,0:03:28.62,Default,,0,0,0,,ahhh, konkai mada ii denpa ori
 Dialogue: 0,0:03:28.62,0:03:30.62,Default,,0,0,0,,jikai saku mo tanomu yo
 Dialogue: 0,0:03:30.62,0:03:33.32,Default,,0,0,0,,ima iroiro neteru kouso tokoro dakara
 Dialogue: 0,0:03:33.32,0:03:35.32,Default,,0,0,0,,
-Dialogue: 0,0:03:35.32,0:03:38.16,Default,,0,0,0,, /kagiri aru, jikan no naka de/
+Dialogue: 0,0:03:35.32,0:03:38.16,Default,,0,0,0,,/kagiri aru, jikan no naka de/
 Dialogue: 0,0:03:38.16,0:03:40.16,Default,,0,0,0,,/anata no koto omou/
 Dialogue: 0,0:03:40.16,0:03:43.02,Default,,0,0,0,,/anata no kokoro ??? chikara wo watashi ni/
 Dialogue: 0,0:03:43.02,0:03:45.02,Default,,0,0,0,,oh? denpa kita ka?
@@ -66,9 +66,9 @@ Dialogue: 0,0:03:45.02,0:03:48.48,Default,,0,0,0,,I spent a lot of time reading 
 Dialogue: 0,0:03:48.48,0:03:53.20,Default,,0,0,0,, himeteru setsunai koigokoru komayaka ni egaita gensaku to iu ka
 Dialogue: 0,0:03:53.20,0:03:55.20,Default,,0,0,0,,Hm?
 Dialogue: 0,0:03:55.20,0:03:58.10,Default,,0,0,0,, Huh? Fujikawa-senpai?
-Dialogue: 0,0:03:58.10,0:04:01.20,Default,,0,0,0,,/You were everything to me/
-Dialogue: 0,0:04:01.20,0:04:05.22,Default,,0,0,0,,/If it's my fate to disappear/
-Dialogue: 0,0:04:05.22,0:04:08.92,Default,,0,0,0,,/I loved you forever/
+Dialogue: 0,0:03:58.10,0:04:01.20,Default,,0,0,0,,{\i1}You were everything to me
+Dialogue: 0,0:04:01.20,0:04:05.22,Default,,0,0,0,,{\i1}If it's my fate to disappear
+Dialogue: 0,0:04:05.22,0:04:08.92,Default,,0,0,0,,{\i1}I loved you forever
 Dialogue: 0,0:04:08.92,0:04:10.92,Default,,0,0,0,,
 Dialogue: 0,0:04:10.92,0:04:13.62,Default,,0,0,0,,Oh? Yahoo, Honda-chan
 Dialogue: 0,0:04:13.62,0:04:15.62,Default,,0,0,0,,Um, just now was...?
@@ -88,7 +88,7 @@ Dialogue: 0,0:04:54.24,0:04:56.24,Default,,0,0,0,,Seki-san?
 Dialogue: 0,0:04:56.24,0:04:58.24,Default,,0,0,0,,Forbidden love?!
 Dialogue: 0,0:04:58.24,0:04:59.32,Default,,0,0,0,,I love you
 Dialogue: 0,0:04:59.32,0:05:02.16,Default,,0,0,0,,If you do that your partner's a girl, ???
-Dialogue: 0,0:05:02.16,0:05:04.78,Default,,0,0,0,,there will be rumors ??? 
+Dialogue: 0,0:05:02.16,0:05:04.78,Default,,0,0,0,,there will be rumors ???
 Dialogue: 0,0:05:04.78,0:05:09.36,Default,,0,0,0,,Eh?  Anyways, can you visit from noon until homeroom? ???
 Dialogue: 0,0:05:09.36,0:05:12.82,Default,,0,0,0,,Fujikawa-senpai's love-poem ???
 Dialogue: 0,0:05:12.82,0:05:16.44,Default,,0,0,0,,I don't have any experience, but I'll do my best
