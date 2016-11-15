@@ -16,9 +16,8 @@ Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 65
-Active Line: 82
-Video Position: 9300
+Active Line: 11
+Video Position: 3486
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,8 +36,8 @@ Dialogue: 0,0:00:24.44,0:00:28.78,Default,,0,0,0,,I'll show each of you my ???
 Dialogue: 0,0:02:16.62,0:02:19.98,Default,,0,0,0,,Hanging out with you today was really fun
 Dialogue: 0,0:02:20.28,0:02:22.20,Default,,0,0,0,,Really? That's good
 Dialogue: 0,0:02:22.38,0:02:24.76,Default,,0,0,0,,Tama-chan, you joined a good club
-Dialogue: 0,0:02:25.36,0:02:27.14,Default,,0,0,0,,the senior members are nice
-Dialogue: 0,0:02:27.14,0:02:30.40,Default,,0,0,0,,To be honest, I was worried at fist
+Dialogue: 0,0:02:25.36,0:02:27.14,Default,,0,0,0,,The senior members are nice,
+Dialogue: 0,0:02:27.14,0:02:30.40,Default,,0,0,0,,to be honest, I was worried at fist
 Dialogue: 0,0:02:31.76,0:02:33.90,Default,,0,0,0,,You're like my papa, Yumine
 Dialogue: 0,0:02:34.48,0:02:36.66,Default,,0,0,0,,I feel praised
 Dialogue: 0,0:02:43.14,0:02:43.68,Default,,0,0,0,,Oh, right!
@@ -59,8 +58,8 @@ Dialogue: 0,0:03:30.98,0:03:33.32,Default,,0,0,0,,ima iroiro neteru kouso tokoro
 Dialogue: 0,0:03:35.80,0:03:38.22,Default,,0,0,0,,/kagiri aru, jikan no naka de/
 Dialogue: 0,0:03:38.26,0:03:39.98,Default,,0,0,0,,/anata no koto omou/
 Dialogue: 0,0:03:40.16,0:03:43.12,Default,,0,0,0,,/anata no kokoro ??? chikara wo watashi ni/
-Dialogue: 0,0:03:43.16,0:03:45.02,Default,,0,0,0,,oh? denpa kita ka?
-Dialogue: 0,0:03:45.40,0:03:48.48,Default,,0,0,0,,I spent a lot of time reading manga yesterday
+Dialogue: 0,0:03:43.16,0:03:44.64,Default,,0,0,0,,oh? denpa kita ka?
+Dialogue: 0,0:03:45.06,0:03:48.48,Default,,0,0,0,,I spent a lot of time reading manga yesterday
 Dialogue: 0,0:03:49.16,0:03:53.20,Default,,0,0,0,, himeteru setsunai koigokoru komayaka ni egaita gensaku to iu ka
 Dialogue: 0,0:03:54.86,0:03:55.14,Default,,0,0,0,,Hm?
 Dialogue: 0,0:03:56.12,0:03:58.10,Default,,0,0,0,, Huh? Fujikawa-senpai?
@@ -126,7 +125,7 @@ Dialogue: 0,0:07:21.90,0:07:24.98,Default,,0,0,0,,Fujikawa-senpai is the passion
 Dialogue: 0,0:07:24.98,0:07:27.50,Default,,0,0,0,,the President is calm.
 Dialogue: 0,0:07:27.50,0:07:28.42,Default,,0,0,0,,Huh?
 Dialogue: 0,0:07:28.86,0:07:29.82,Default,,0,0,0,,Honda-san!
-Dialogue: 0,0:07:29.82,0:07:32.52,Default,,0,0,0,,I think they're both great! 
+Dialogue: 0,0:07:29.82,0:07:32.52,Default,,0,0,0,,I think they're both great!
 Dialogue: 0,0:07:32.52,0:07:33.16,Default,,0,0,0,,Huh?
 Dialogue: 0,0:07:33.16,0:07:35.78,Default,,0,0,0,,Sorry for keeping you waiting
 Dialogue: 0,0:07:35.78,0:07:37.78,Default,,0,0,0,,Shall we talk in the digital music club's room?
