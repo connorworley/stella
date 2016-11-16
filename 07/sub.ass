@@ -16,12 +16,14 @@ Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Active Line: 11
-Video Position: 3486
+Scroll Position: 129
+Active Line: 130
+Video Position: 26991
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Open Sans,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Insert,Chalkduster,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1,1,8,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -154,4 +156,22 @@ Dialogue: 0,0:08:38.64,0:08:41.12,Default,,0,0,0,,???
 Dialogue: 0,0:08:41.12,0:08:41.52,Default,,0,0,0,,Eh!
 Dialogue: 0,0:08:41.52,0:08:44.76,Default,,0,0,0,,???
 Dialogue: 0,0:08:44.76,0:08:48.00,Default,,0,0,0,,???
-Dialogue: 0,0:08:48.00,0:08:50.00,Default,,0,0,0,,
+Dialogue: 0,0:08:48.00,0:08:50.00,Default,,0,0,0,,???
+Dialogue: 0,0:18:40.11,0:18:45.48,Insert,,0,0,0,,Hey, the second birthday.
+Dialogue: 0,0:18:46.15,0:18:52.55,Insert,,0,0,0,,If I could choose, it would somehow be today.
+Dialogue: 0,0:18:52.66,0:18:59.42,Insert,,0,0,0,,As I embarked upon my journey, it seemed as if   (? Kind of awkward and verbose.)
+Dialogue: 0,0:18:59.51,0:19:04.44,Insert,,0,0,0,,The blueness of the sea was bidding me farewell. (? ↑ pt. 2)
+Dialogue: 0,0:19:07.64,0:19:13.75,Insert,,0,0,0,,There were days when I was lost searching for
+Dialogue: 0,0:19:13.93,0:19:19.77,Insert,,0,0,0,,What you promised, that place inside your dreams
+Dialogue: 0,0:19:19.95,0:19:26.71,Insert,,0,0,0,,But even still, you praised me. (? ほめられたくて ???)
+Dialogue: 0,0:19:26.71,0:19:32.75,Insert,,0,0,0,,In those days, amidst my sorrow, I continued to walk
+Dialogue: 0,0:19:32.80,0:19:39.37,Insert,,0,0,0,,And no matter what, it was a valuable present
+Dialogue: 0,0:19:39.37,0:19:46.80,Insert,,0,0,0,,"Don't you give up." Merely those four words,
+Dialogue: 0,0:19:46.80,0:19:53.26,Insert,,0,0,0,,Inside that mail. Because I kept them close to me,   (? better translation for "Wasurezuni iru kara")
+Dialogue: 0,0:19:53.26,0:20:05.24,Insert,,0,0,0,,Stumbling through the crowd, I found it, didn't I?   (? Mitsukete, not Mitsuketa)
+Dialogue: 0,0:20:33.88,0:20:39.77,Insert,,0,0,0,,Why are they overflowing?
+Dialogue: 0,0:20:39.77,0:20:46.40,Insert,,0,0,0,,Even though I'm happy, the tears won't stop.
+Dialogue: 0,0:20:46.40,0:20:53.66,Insert,,0,0,0,,Goodbye to the me of yesterday.
+Dialogue: 0,0:20:53.66,0:21:00.37,Insert,,0,0,0,,Now, let's fly away! There's nothing that we've overlooked.
+Dialogue: 0,0:21:00.37,0:21:04.88,Insert,,0,0,0,,You'll be my guiding compass,
+Dialogue: 0,0:21:05.95,0:21:11.53,Insert,,0,0,0,,As long as you're in my heart.
