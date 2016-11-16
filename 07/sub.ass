@@ -15,17 +15,10 @@ Audio File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-<<<<<<< HEAD
 Video Zoom Percent: 0.875000
 Scroll Position: 168
 Active Line: 180
 Video Position: 17134
-=======
-Video Zoom Percent: 1.125000
-Scroll Position: 175
-Active Line: 192
-Video Position: 17918
->>>>>>> 0811f0b0da9477c0b576776623799d16e6fc1ea5
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
