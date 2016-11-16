@@ -16,9 +16,9 @@ Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 131
-Active Line: 140
-Video Position: 13272
+Scroll Position: 174
+Active Line: 186
+Video Position: 17337
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -166,9 +166,56 @@ Dialogue: 0,0:09:01.44,0:09:03.51,Default,,0,0,0,,
 Dialogue: 0,0:09:05.51,0:09:07.04,Default,,0,0,0,,
 Dialogue: 0,0:09:07.75,0:09:08.93,Default,,0,0,0,,
 Dialogue: 0,0:09:08.93,0:09:11.53,Default,,0,0,0,,
-Dialogue: 0,0:09:11.53,0:09:13.53,Default,,0,0,0,,
-Dialogue: 0,0:09:13.53,0:09:15.53,Default,,0,0,0,,
+Dialogue: 0,0:09:11.53,0:09:13.53,Default,,0,0,0,,No!
 Dialogue: 0,0:09:16.26,0:09:17.84,Default,,0,0,0,,O-ow, sorry
+Dialogue: 0,0:09:23.00,0:09:23.93,Default,,0,0,0,,Tama-chan!
+Dialogue: 0,0:09:24.64,0:09:25.48,Default,,0,0,0,,Yumine!
+Dialogue: 0,0:09:25.86,0:09:27.57,Default,,0,0,0,,Oh? What's up?
+Dialogue: 0,0:09:28.13,0:09:29.06,Default,,0,0,0,,...(this girl)
+Dialogue: 0,0:09:41.00,0:09:42.71,Default,,0,0,0,,Tama-chan, are you okay?
+Dialogue: 0,0:09:42.71,0:09:47.24,Default,,0,0,0,,
+Dialogue: 0,0:09:47.24,0:09:48.75,Default,,0,0,0,,
+Dialogue: 0,0:09:48.75,0:09:52.31,Default,,0,0,0,,
+Dialogue: 0,0:09:56.57,0:09:57.71,Default,,0,0,0,,
+Dialogue: 0,0:09:57.71,0:10:01.35,Default,,0,0,0,,
+Dialogue: 0,0:10:01.35,0:10:03.11,Default,,0,0,0,,
+Dialogue: 0,0:10:03.11,0:10:05.35,Default,,0,0,0,,
+Dialogue: 0,0:10:05.51,0:10:10.28,Default,,0,0,0,,
+Dialogue: 0,0:10:10.28,0:10:11.24,Default,,0,0,0,,
+Dialogue: 0,0:10:16.11,0:10:17.77,Default,,0,0,0,,
+Dialogue: 0,0:10:18.00,0:10:20.13,Default,,0,0,0,,
+Dialogue: 0,0:10:21.80,0:10:24.57,Default,,0,0,0,,
+Dialogue: 0,0:10:26.84,0:10:30.80,Default,,0,0,0,,
+Dialogue: 0,0:10:30.80,0:10:32.55,Default,,0,0,0,,
+Dialogue: 0,0:10:32.55,0:10:33.64,Default,,0,0,0,,Yu-Yumine!
+Dialogue: 0,0:10:33.64,0:10:36.44,Default,,0,0,0,,
+Dialogue: 0,0:10:36.44,0:10:38.91,Default,,0,0,0,,
+Dialogue: 0,0:10:43.02,0:10:43.86,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:10:52.46,0:10:56.42,Default,,0,0,0,,
+Dialogue: 0,0:10:56.42,0:11:00.15,Default,,0,0,0,,
+Dialogue: 0,0:11:00.15,0:11:01.22,Default,,0,0,0,,
+Dialogue: 0,0:11:03.35,0:11:07.08,Default,,0,0,0,,
+Dialogue: 0,0:11:07.08,0:11:08.88,Default,,0,0,0,,
+Dialogue: 0,0:11:11.62,0:11:17.80,Default,,0,0,0,,
+Dialogue: 0,0:11:21.40,0:11:24.55,Default,,0,0,0,,
+Dialogue: 0,0:11:24.55,0:11:28.02,Default,,0,0,0,,
+Dialogue: 0,0:11:28.35,0:11:29.15,Default,,0,0,0,,
+Dialogue: 0,0:11:30.33,0:11:32.44,Default,,0,0,0,,
+Dialogue: 0,0:11:33.66,0:11:34.48,Default,,0,0,0,,Honda-san?
+Dialogue: 0,0:11:35.40,0:11:36.15,Default,,0,0,0,,Honda-san?
+Dialogue: 0,0:11:37.20,0:11:38.75,Default,,0,0,0,,I was listening!
+Dialogue: 0,0:11:38.75,0:11:40.15,Default,,0,0,0,,yosomi mo dame desu
+Dialogue: 0,0:11:40.51,0:11:42.17,Default,,0,0,0,,
+Dialogue: 0,0:11:42.17,0:11:44.17,Default,,0,0,0,,
+Dialogue: 0,0:11:44.22,0:11:46.35,Default,,0,0,0,,
+Dialogue: 0,0:11:46.55,0:11:49.93,Default,,0,0,0,,
+Dialogue: 0,0:11:51.00,0:11:52.95,Default,,0,0,0,,
+Dialogue: 0,0:11:54.60,0:11:57.88,Default,,0,0,0,,
+Dialogue: 0,0:11:57.88,0:12:01.97,Default,,0,0,0,,
+Dialogue: 0,0:12:01.97,0:12:03.06,Default,,0,0,0,,
+Dialogue: 0,0:12:03.37,0:12:06.86,Default,,0,0,0,,
+Dialogue: 0,0:09:30.40,0:09:33.80,Default,,0,0,0,,kyou ninshoku nan desu ... ???
+Dialogue: 0,0:09:33.80,0:09:35.31,Default,,0,0,0,,Ah, Honda-chan!
 Dialogue: 0,0:18:40.11,0:18:45.48,Insert,,0,0,0,,{\fad(100,100)}Hey, the second birthday.
 Dialogue: 0,0:18:46.15,0:18:52.55,Insert,,0,0,0,,{\fad(100,100)}If I could choose, it would somehow be today.
 Dialogue: 0,0:18:52.66,0:18:59.42,Insert,,0,0,0,,{\fad(100,100)}As I embarked upon my journey, it seemed as if   (? Kind of awkward and verbose.)
