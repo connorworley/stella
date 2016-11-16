@@ -16,9 +16,9 @@ Video File: ./[Ohys-Raws] Stella no Mahou - 07 (AT-X 1280x720 x264 AAC).mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 174
-Active Line: 186
-Video Position: 17337
+Scroll Position: 175
+Active Line: 192
+Video Position: 17918
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -214,6 +214,12 @@ Dialogue: 0,0:11:54.60,0:11:57.88,Default,,0,0,0,,
 Dialogue: 0,0:11:57.88,0:12:01.97,Default,,0,0,0,,
 Dialogue: 0,0:12:01.97,0:12:03.06,Default,,0,0,0,,
 Dialogue: 0,0:12:03.37,0:12:06.86,Default,,0,0,0,,
+Dialogue: 0,0:12:06.86,0:12:08.86,Default,,0,0,0,,
+Dialogue: 0,0:12:09.31,0:12:11.33,Default,,0,0,0,,
+Dialogue: 0,0:12:12.28,0:12:14.88,Default,,0,0,0,,
+Dialogue: 0,0:12:15.13,0:12:20.02,Default,,0,0,0,,
+Dialogue: 0,0:12:25.20,0:12:27.31,Default,,0,0,0,,
+Dialogue: 0,0:12:28.11,0:12:28.97,Default,,0,0,0,,
 Dialogue: 0,0:09:30.40,0:09:33.80,Default,,0,0,0,,kyou ninshoku nan desu ... ???
 Dialogue: 0,0:09:33.80,0:09:35.31,Default,,0,0,0,,Ah, Honda-chan!
 Dialogue: 0,0:18:40.11,0:18:45.48,Insert,,0,0,0,,{\fad(100,100)}Hey, the second birthday.
